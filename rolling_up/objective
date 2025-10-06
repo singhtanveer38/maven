@@ -1,0 +1,1 @@
+You’ve been given a table with raw data for individual coffee shop transactions. Your task is to aggregate the total sales by month and store, then calculate the month-over-month change in sales for each store (in dollars).
